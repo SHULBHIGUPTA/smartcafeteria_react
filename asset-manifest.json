@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smartcafeteria_react/static/css/main.65c5d921.css",
+    "main.js": "/smartcafeteria_react/static/js/main.049a14a9.js",
+    "static/js/787.08fbda16.chunk.js": "/smartcafeteria_react/static/js/787.08fbda16.chunk.js",
+    "static/media/imagescafeteria.jpg": "/smartcafeteria_react/static/media/imagescafeteria.a44b4c29ab9eb11a913d.jpg",
+    "index.html": "/smartcafeteria_react/index.html",
+    "main.65c5d921.css.map": "/smartcafeteria_react/static/css/main.65c5d921.css.map",
+    "main.049a14a9.js.map": "/smartcafeteria_react/static/js/main.049a14a9.js.map",
+    "787.08fbda16.chunk.js.map": "/smartcafeteria_react/static/js/787.08fbda16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65c5d921.css",
+    "static/js/main.049a14a9.js"
+  ]
+}
